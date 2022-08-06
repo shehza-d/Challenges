@@ -1,4 +1,4 @@
-## Task 1 :
+## Challenge 1 :
 ATM Machine currency distribution.
 
 How to Distribute an ATM machine currency notes?
